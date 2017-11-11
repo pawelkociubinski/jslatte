@@ -1,0 +1,23 @@
+{
+  "fileMap": {
+    "static/posts/js.json": {
+      "date": "2017-11-06T22:28:10.884Z",
+      "tags": [
+        "test"
+      ],
+      "categories": [
+        "javascript"
+      ],
+      "title": "js!",
+      "preview": "wdcokwokcmwok js!",
+      "dir": "static/posts",
+      "base": "js.json",
+      "ext": ".json",
+      "sourceBase": "js.md",
+      "sourceExt": ".md"
+    }
+  },
+  "sourceFileArray": [
+    "static/posts/js.md"
+  ]
+}

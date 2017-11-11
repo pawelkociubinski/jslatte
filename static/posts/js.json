@@ -1,0 +1,18 @@
+{
+  "date": "2017-11-06T22:28:10.884Z",
+  "tags": [
+    "test"
+  ],
+  "categories": [
+    "javascript"
+  ],
+  "title": "js!",
+  "bodyContent": "# **wdcokwokcmwok js!**",
+  "bodyHtml": "<h1 id=\"-wdcokwokcmwok-js-\"><strong>wdcokwokcmwok js!</strong></h1>\n",
+  "preview": "wdcokwokcmwok js!",
+  "dir": "static/posts",
+  "base": "js.json",
+  "ext": ".json",
+  "sourceBase": "js.md",
+  "sourceExt": ".md"
+}

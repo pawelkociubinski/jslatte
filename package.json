@@ -5,10 +5,10 @@
   "main": "index.js",
   "scripts": {
     "dev": "next",
-    "start": "next start",
-    "build": "next build",
-    "export": "next export",
-    "build:export": "run-s build export"
+    "process:posts": "processmd static/posts/**/*.md --outputDir static/posts --preview 110 --summaryOutput static/summary.json",
+    "next:export": "next export",
+    "next:build": "next build",
+    "build": "run-s process:posts next:build next:export"
   },
   "author": "",
   "license": "ISC",
