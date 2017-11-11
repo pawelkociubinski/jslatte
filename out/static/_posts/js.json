@@ -5,7 +5,7 @@
 
 .fiqwKa{padding:15px;background:#F5F5F5;}
 </style></head><body><div><div id="__next"><div data-reactroot=""><div><nav class="Nav__Wrapper-s1c9ezaq-0 gCcYzp">Test!</nav>TESTOWY!<footer class="Footer-c3ixin-0 fiqwKa">Footer</footer></div></div></div><div id="__next-error"></div></div><div><script>
-          __NEXT_DATA__ = {"props":{},"pathname":"/","query":{},"buildId":"22266fa1-c09a-4178-8d8b-1ae1291fb1fd","buildStats":{"app.js":{"hash":"66e43a3545d2a53c232ca4659b917d34"}},"assetPrefix":"","nextExport":true,"err":null,"chunks":[]}
+          __NEXT_DATA__ = {"props":{},"pathname":"/","query":{"title":"_js"},"buildId":"22266fa1-c09a-4178-8d8b-1ae1291fb1fd","buildStats":{"app.js":{"hash":"66e43a3545d2a53c232ca4659b917d34"}},"assetPrefix":"","nextExport":true,"err":null,"chunks":[]}
           module={}
           __NEXT_LOADED_PAGES__ = []
           __NEXT_LOADED_CHUNKS__ = []

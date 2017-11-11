@@ -3,15 +3,15 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "author": "",
+  "license": "ISC",
   "scripts": {
     "dev": "next",
-    "process:posts": "processmd static/posts/**/*.md --outputDir static/posts --preview 110 --summaryOutput static/summary.json",
+    "process:posts": "processmd static/_posts/**/*.md --outputDir static/_posts --preview 110 --summaryOutput static/summary.json",
     "next:export": "next export",
     "next:build": "next build",
     "build": "run-s process:posts next:build next:export"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "next": "^4.1.4",
     "react": "^16.1.0",

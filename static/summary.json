@@ -1,6 +1,6 @@
 {
   "fileMap": {
-    "static/posts/js.json": {
+    "static/_posts/js.json": {
       "date": "2017-11-06T22:28:10.884Z",
       "tags": [
         "test"
@@ -10,14 +10,31 @@
       ],
       "title": "js!",
       "preview": "wdcokwokcmwok js!",
-      "dir": "static/posts",
+      "dir": "static/_posts",
       "base": "js.json",
       "ext": ".json",
       "sourceBase": "js.md",
       "sourceExt": ".md"
+    },
+    "static/_posts/wef.json": {
+      "date": "2017-11-11T18:41:28.337Z",
+      "tags": [
+        "ewfwef"
+      ],
+      "categories": [
+        "wewefwe"
+      ],
+      "title": "wef",
+      "preview": "wkefwejf\n wjfwojfw\nwefwpeojfw\n weofkwepfkwe",
+      "dir": "static/_posts",
+      "base": "wef.json",
+      "ext": ".json",
+      "sourceBase": "wef.md",
+      "sourceExt": ".md"
     }
   },
   "sourceFileArray": [
-    "static/posts/js.md"
+    "static/_posts/js.md",
+    "static/_posts/wef.md"
   ]
 }

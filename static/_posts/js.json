@@ -10,7 +10,7 @@
   "bodyContent": "# **wdcokwokcmwok js!**",
   "bodyHtml": "<h1 id=\"-wdcokwokcmwok-js-\"><strong>wdcokwokcmwok js!</strong></h1>\n",
   "preview": "wdcokwokcmwok js!",
-  "dir": "static/posts",
+  "dir": "static/_posts",
   "base": "js.json",
   "ext": ".json",
   "sourceBase": "js.md",
