@@ -1,0 +1,20 @@
+backend:
+  name: github
+  repo: pawelkociubinski/jslatte
+  branch: master
+
+publish_mode: editorial_workflow
+media_folder: "static/images"
+
+collections:
+  - name: "post"
+    label: "Post"
+    folder: "static/posts"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: Publish Date,   name: date,         widget: datetime}
+      - {label: Tags,           name: tags,         widget: list}
+      - {label: Categories,     name: categories,   widget: list}
+      - {label: Title,          name: title,        widget: string}
+      - {label: Body,           name: body,         widget: markdown}
