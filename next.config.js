@@ -5,10 +5,10 @@ const postsPaths = {};
 if (SUMMARY_JSON && SUMMARY_JSON.fileMap) {
   Object.keys(SUMMARY_JSON.fileMap).forEach((file) => {
     const slug = file
-      .split('static').join('')
-      .split('posts').join('')
-      .split('/').join('')
-      .split('.json').join('')
+      .split("static").join("")
+      .split("posts").join("")
+      .split("/").join("")
+      .split(".json").join("")
 
     postsPaths[file] = {
       page: "/",
