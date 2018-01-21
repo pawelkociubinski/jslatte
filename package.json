@@ -1,26 +1,27 @@
 {
-  "name": "blogtest",
+  "name": "JSlatte.pl",
   "version": "1.0.0",
-  "description": "",
+  "description": "JSlatte.pl BLOG - JavaScript, Elm lang",
   "main": "index.js",
-  "author": "",
+  "author": "Paweł Kociubiński",
   "license": "ISC",
   "scripts": {
-    "dev": "next",
-    "process:posts": "processmd static/_posts/**/*.md --outputDir static/_posts --preview 110 --summaryOutput static/summary.json",
-    "next:export": "next export",
+    "next:dev": "next",
     "next:build": "next build",
+    "next:export": "next export",
+    "process:posts": "processmd static/_posts/**/*.md --outputDir static/_posts  --summaryOutput static/summary.json",
     "build": "run-s process:posts next:build next:export"
   },
   "dependencies": {
-    "next": "^4.1.4",
-    "react": "^16.1.0",
-    "react-dom": "^16.1.0",
-    "styled-components": "^2.2.3"
+    "next": "^4.2.3",
+    "polished": "^1.9.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "styled-components": "^2.4.0"
   },
   "devDependencies": {
-    "babel-plugin-styled-components": "^1.3.0",
+    "babel-plugin-styled-components": "^1.4.0",
     "npm-run-all": "^4.1.2",
-    "processmd": "^3.1.6"
+    "processmd": "^4.1.0"
   }
 }

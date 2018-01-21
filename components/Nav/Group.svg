@@ -1,0 +1,11 @@
+<svg width="330" height="235" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#783FA6" d="M0 0h100L50 50 0 100z"/>
+    <path fill="#5F5D5D" d="M0 175v-50l25 25 25 25z"/>
+    <path fill="red" d="M330 50h-50l25-25 25-25z"/>
+    <path fill="#D8D8D8" d="M0 185h50l-25 25-25 25z"/>
+    <path fill="#5EA655" d="M100 110v100l-50-50-50-50z"/>
+    <path fill="#9F9F9F" d="M110 110h100l-50 50-50 50z"/>
+    <path fill="#7B5454" d="M115 0h200L215 100H15z"/>
+  </g>
+</svg>

@@ -7,9 +7,9 @@
     "javascript"
   ],
   "title": "js!",
+  "preview": "Krótki opis na zachęte!",
   "bodyContent": "# **wdcokwokcmwok js!**",
-  "bodyHtml": "<h1 id=\"-wdcokwokcmwok-js-\"><strong>wdcokwokcmwok js!</strong></h1>\n",
-  "preview": "wdcokwokcmwok js!",
+  "bodyHtml": "<h1><strong>wdcokwokcmwok js!</strong></h1>\n",
   "dir": "static/_posts",
   "base": "js.json",
   "ext": ".json",

@@ -1,0 +1,98 @@
+<svg>
+  <defs>
+    <path id="a" d="M1050.644 0H1200l-149.356 149.356z"/>
+    <path id="b" d="M1049.356 0v149.356L900 0z"/>
+    <path id="c" d="M1200 149.356v149.356l-149.356-149.356z"/>
+    <path id="d" d="M1200 149.356h-149.356L1200 0z"/>
+    <path id="e" d="M900 149.356H750.644L900 0z"/>
+    <path id="f" d="M0 0h149.356L0 149.356z"/>
+    <path id="g" d="M0 298.712V149.356l149.356 149.356z"/>
+    <path id="h" d="M0 300h149.356L0 449.356z"/>
+    <path id="i" d="M900 149.356v149.356L750.644 149.356z"/>
+    <path id="j" d="M449.356 149.356H300L449.356 0z"/>
+    <path id="k" d="M449.356 0h149.356L449.356 149.356z"/>
+    <path id="l" d="M1200 449.356h-149.356V300H1200z"/>
+    <path id="m" d="M900 449.356V300l149.356 149.356z"/>
+    <path id="n" d="M1200 601.288v149.356l-149.356-149.356z"/>
+    <path id="o" d="M1200 600h-149.356L1200 450.644z"/>
+    <path id="p" d="M1049.356 300v149.356L900 300z"/>
+    <path id="q" d="M749.356 149.356h-300L599.356 0l75 74.678z"/>
+    <path id="r" d="M601.288 0h300l-150 149.356z"/>
+    <path id="s" d="M299.57 149.356H0L149.785 0h299.571z"/>
+    <path id="t" d="M1200 300H900V0z"/>
+    <path id="u" d="M900 450.644h300L1050 600z"/>
+    <path id="v" d="M225.322 149.356h225.322L225.322 374.678z"/>
+    <path id="w" d="M225.322 149.356v225.322L0 149.356z"/>
+  </defs>
+  <g fill="none" fillRule="evenodd">
+    <use fill="#D8D8D8" xlinkHref="#a"/>
+    <path stroke="#FFF" strokeWidth="4" d="M1052.644 2v142.528L1195.172 2h-142.528z"/>
+    <use fill="#D8D8D8" xlinkHref="#b"/>
+    <path stroke="#FFF" strokeWidth="4" d="M1047.356 2H904.828l142.528 142.528V2z"/>
+    <use fill="#D8D8D8" xlinkHref="#c"/>
+    <path stroke="#FFF" strokeWidth="4" d="M1198 151.356h-142.528L1198 293.884V151.356z"/>
+    <use fill="#D8D8D8" xlinkHref="#d"/>
+    <path stroke="#FFF" strokeWidth="4" d="M1198 147.356V4.828l-142.528 142.528H1198z"/>
+    <use fill="#D8D8D8" xlinkHref="#e"/>
+    <path stroke="#FFF" strokeWidth="4" d="M898 147.356V4.828L755.472 147.356H898z"/>
+    <use fill="#D8D8D8" xlinkHref="#f"/>
+    <path stroke="#FFF" strokeWidth="4" d="M2 2v142.528L144.528 2H2z"/>
+    <use fill="#D8D8D8" xlinkHref="#g"/>
+    <path stroke="#FFF" strokeWidth="4" d="M2 296.712h142.528L2 154.185v142.527z"/>
+    <use fill="#D8D8D8" xlinkHref="#h"/>
+    <path stroke="#FFF" strokeWidth="4" d="M2 302v142.528L144.528 302H2z"/>
+    <use fill="#D8D8D8" xlinkHref="#i"/>
+    <path stroke="#FFF" strokeWidth="4" d="M898 151.356H755.472L898 293.884V151.356z"/>
+    <use fill="#D8D8D8" xlinkHref="#j"/>
+    <path stroke="#FFF" strokeWidth="4" d="M447.356 147.356V4.828L304.828 147.356h142.528z"/>
+    <use fill="#D8D8D8" xlinkHref="#k"/>
+    <path stroke="#FFF" strokeWidth="4" d="M451.356 2v142.528L593.884 2H451.356z"/>
+    <use fill="#D8D8D8" xlinkHref="#l"/>
+    <path stroke="#FFF" strokeWidth="4" d="M1198 447.356V302h-145.356v145.356H1198z"/>
+    <g>
+      <use fill="#D8D8D8" xlinkHref="#m"/>
+      <path stroke="#FFF" strokeWidth="4" d="M902 447.356h142.528L902 304.828v142.528z"/>
+    </g>
+    <g>
+      <use fill="#D8D8D8" xlinkHref="#n"/>
+      <path stroke="#FFF" strokeWidth="4" d="M1198 603.288h-142.528L1198 745.815V603.288z"/>
+    </g>
+    <g>
+      <use fill="#D8D8D8" xlinkHref="#o"/>
+      <path stroke="#FFF" strokeWidth="4" d="M1198 598V455.472L1055.472 598H1198z"/>
+    </g>
+    <g>
+      <use fill="#D8D8D8" xlinkHref="#p"/>
+      <path stroke="#FFF" strokeWidth="4" d="M1047.356 302H904.828l142.528 142.528V302z"/>
+    </g>
+    <g>
+      <use fill="#D8D8D8" xlinkHref="#q"/>
+      <path stroke="#FFF" strokeWidth="4" d="M744.513 147.356L599.356 2.822 454.2 147.356h290.314z"/>
+    </g>
+    <g>
+      <use fill="#D8D8D8" xlinkHref="#r"/>
+      <path stroke="#FFF" strokeWidth="4" d="M606.13 2l145.158 144.534L896.444 2H606.131z"/>
+    </g>
+    <g>
+      <use fill="#D8D8D8" xlinkHref="#s"/>
+      <path stroke="#FFF" strokeWidth="4" d="M298.744 147.356L444.518 2H150.612L4.838 147.356h293.906z"/>
+    </g>
+    <g>
+      <use fill="#D8D8D8" xlinkHref="#t"/>
+      <path stroke="#FFF" strokeWidth="4" d="M1195.172 298L902 4.828V298h293.172z"/>
+    </g>
+    <g>
+      <use fill="#D8D8D8" xlinkHref="#u"/>
+      <path stroke="#FFF" strokeWidth="4" d="M904.843 452.644L1050 597.178l145.157-144.534H904.843z"/>
+    </g>
+    <g>
+      <use fill="#D8D8D8" xlinkHref="#v"/>
+      <path stroke="#FFF" strokeWidth="4" d="M227.322 151.356V369.85l218.493-218.494H227.322z"/>
+    </g>
+    <g>
+      <use fill="#D8D8D8" xlinkHref="#w"/>
+      <path stroke="#FFF" strokeWidth="4" d="M223.322 151.356H4.828L223.322 369.85V151.356z"/>
+    </g>
+  </g>
+</svg>
+

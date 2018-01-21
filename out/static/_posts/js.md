@@ -5,5 +5,7 @@ tags:
 categories:
   - javascript
 title: js!
+preview: Krótki opis na zachęte!
 ---
+
 # **wdcokwokcmwok js!**
